@@ -2,9 +2,8 @@
 
 Simple lexical analyzer for shell-like syntaxes
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ruricolist/cl-shlex.git   |
-| commit  | 3dee1cb  |
-| systems | cl-shlex |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-shlex.git |
+| commit  | 3dee1cb                                        |
+| systems | shlex                                          |
+|---------+------------------------------------------------|
